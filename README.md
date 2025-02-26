@@ -8,4 +8,4 @@ hola buena tardeeee
 
 
 IMAGEN AÑADIDA DESDE LA CASA
-![Logo gta](Downloads\download.jpg)
+![Logo gta](\Users\Joel MB\Documents\repositorio\casa\download.jpg)
