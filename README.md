@@ -8,4 +8,4 @@ hola buena tardeeee
 
 
 IMAGEN AÑADIDA DESDE LA CASA
-![Logo gta](imagenes\download.jpg)
+![Logo gta](imagenes/download.jpg)
